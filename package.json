@@ -1,6 +1,6 @@
 {
     "name": "fmtjs-att-pass-lexical",
-    "version": "5.5.3",
+    "version": "5.5.4",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -16,6 +16,6 @@
         "mocha": "^3.1.2"
     },
     "dependencies": {
-        "fmtjs-ast-walker": "5.5.3"
+        "fmtjs-ast-walker": "5.5.4"
     }
 }
